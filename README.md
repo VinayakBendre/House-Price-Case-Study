@@ -1,2 +1,2 @@
 # House-Price-Case-Study
-Building a linear regression model to check which factors are affecting house prices
+Using a linear regression model, predict the factors affecting the prices of the houses.
